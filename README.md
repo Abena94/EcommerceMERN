@@ -38,12 +38,12 @@ Before you begin, ensure you have Node.js (version 12.0 or above) installed on y
 
 4. **Setup Environment Variables**:
 
-   You'll need to set up several environment variables for your server. Create a `.env` file in the root directory and use the following
-PORT=8080
-NODE_ENV=development
-MONGO_DB_USERNAME=YOUR_USERNAME
-MONGO_DB_PASSWORD=YOUR_PASSWORD
-JWT_SECRET=YOUR_JWT_SECRET
+   You'll need to set up several environment variables for your server. Create a `.env` file in the root directory and use the following\
+PORT=8080\
+NODE_ENV=development\
+MONGO_DB_USERNAME=YOUR_USERNAME\
+MONGO_DB_PASSWORD=YOUR_PASSWORD\
+JWT_SECRET=YOUR_JWT_SECRET\
 
 6. **Start the Application**:
 
